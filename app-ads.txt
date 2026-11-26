@@ -712,3 +712,7 @@ rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
 onetag.com, 98a80f2adc1bf02, DIRECT
 onetag.com, 98a80f2adc1bf02-OB, DIRECT
 smartadserver.com, 4111, RESELLER
+smartadserver.com, 4194-OB, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4194, RESELLER, 060d053dcf45cbf3
+sharethrough.com, 4194-OB, RESELLER, 060d053dcf45cbf3
+sharethrough.com, 4194, RESELLER, 060d053dcf45cbf3
