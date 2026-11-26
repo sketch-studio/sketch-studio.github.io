@@ -1,6 +1,7 @@
 google.com, pub-9554291038596015, DIRECT, f08c47fec0942fa0
 vungle.com, 6b04664c94bd0b910d562481, DIRECT, c107d686becd2d77
 bigo.sg,htnzdled91,DIRECT
+inmobi.com, 945e0734b1a942d5aac356ad5238cefc, DIRECT, 83e75a7ae333ca9d
 adingenious.com, 70392, RESELLER
 start.io, 115550145, RESELLER
 rubiconproject.com, 27026, RESELLER, 0bfd66d529a55807
